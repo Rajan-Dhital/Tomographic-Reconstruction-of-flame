@@ -11,5 +11,5 @@ Images of the flame from 5 different position.\
 <img src="https://user-images.githubusercontent.com/87676441/196926854-80a982d4-adae-4275-8dca-5f9a2aef03ad.png" width="200">
 
 
-
+Section view of a flame from High speed camera\
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/87676441/216847456-7a313a3d-8811-47fb-ae22-a4f89429da14.gif)
